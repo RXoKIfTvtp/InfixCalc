@@ -1,7 +1,7 @@
 
 
 # Calculator
-## A C++ infix expression evaluator
+A C++ infix expression evaluator
 
 ## Compilation
 
